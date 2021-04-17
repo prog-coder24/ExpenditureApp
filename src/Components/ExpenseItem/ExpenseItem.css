@@ -1,0 +1,23 @@
+.expense_item_wrapper {
+  background-color: #e8f1ce;
+  padding: 10px 30px 10px 30px;
+  margin: 0 60px 0 60px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.item_title {
+  font-size: 25px;
+}
+.item_date {
+  font-size: 15px;
+}
+.item_price {
+  display: grid;
+  align-items: center;
+  font-size: 27px;
+  font-weight: 600;
+  padding: 2px 15px 2px 15px !important;
+  background-color: #cce093;
+  border-radius: 25px;
+}
